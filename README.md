@@ -13,7 +13,7 @@
 🚀 Tech Stack
   - 💼 Python
   - 🤖 Machine Learning | Data Science
-  - ☕ Java (upcoming!)
+
 
 🌐 Connect with Me 
 - 💬 Let's chat about Python, open source, or anything about tech.
