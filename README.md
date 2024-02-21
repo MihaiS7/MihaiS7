@@ -1,6 +1,6 @@
  Hi !👋 My name is Mihai 
 
-🇮🇹 Currently in Germany 🇩🇪 | Back-End Developer | Python Enthusiast 🐍 | Open Source Passionate  
+Currently in Germany 🇩🇪 | Back-End Developer | Python Enthusiast 🐍 | Open Source Passionate  
 
 👨‍💻 About Me 
   - Strong ability to learn quickly and adapt easily to new challenges
